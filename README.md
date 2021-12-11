@@ -7,7 +7,7 @@ The calculator change complex numbers of the polar form (a+bj) to rectangle form
 
 ![WhatsApp Image 2021-12-10 at 09 09 57](https://user-images.githubusercontent.com/49661307/145572152-9bc1703b-db9d-4447-86c5-6a7ad5118f8e.jpeg)
 
-For did make the "polar -> rectagular" was used the site: http://patorjk.com/software/taag/#p=display&f=Doh&t=git%20hub%20
+For did make the "polar -> rectangular" was used the site: http://patorjk.com/software/taag/#p=display&f=Doh&t=git%20hub%20
 
 ### Lite version
 This version was designed to be done in a short time so it doesn't have a graphical interface
